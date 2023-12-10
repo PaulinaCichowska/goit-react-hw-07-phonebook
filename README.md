@@ -1,6 +1,6 @@
 PHONEBOOK APP
 
-General info" This project was a learning experience in navigation.
+General info" This project was a learning experience work with backend.
 
 Technologies: 
 HTML 
